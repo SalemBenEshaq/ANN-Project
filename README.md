@@ -44,8 +44,8 @@ Model weights are checkpointed to disk (`.npz`) whenever a new best loss is foun
 
 | File | Description |
 |---|---|
-| `Salem2237189_ANN.ipynb` | Main notebook: model definition, data loading, training, and evaluation |
-| `Salem2237189Model.npz` | Saved model weights (best checkpoint) |
+| `ANN Project.ipynb` | Main notebook: model definition, data loading, training, and evaluation |
+| `ANN Project wights.npz` | Saved model weights (best checkpoint) |
 
 ## Requirements
 
